@@ -1,7 +1,7 @@
 # Anuj Chourasiya
 
 :wave: Hi there, My name is Anuj. I'm 21 years old, 
-I am currently working on django. 
+I am currently exploring different stuff. 
 
 ## My Stack
 
